@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="integration">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/integration/activation-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/integration/javax.mail-1.4.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/integration/commons-lang3-3.12.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/integration/DCEVM-8u181-installer-build2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/integration/javax.mail-1.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/integration/java-util-1.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/integration/JavaSE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/integration/CodeNameOneBuildClient.jar!/" />
+      <root url="jar://$PROJECT_DIR$/integration/json-20160810.jar!/" />
+      <root url="jar://$PROJECT_DIR$/integration/org.osgi.foundation-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/integration/jbcrypt-0.3m.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
